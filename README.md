@@ -4,30 +4,13 @@ Express js starter for interview process of software engineer with skills as Jav
 ## Dependencies
 
 - Node v14.17.5 (or later)
-- Yarn v1.22 (or later) | NPM v6.13.4 (or later)
-
-## Installation via CLI
-
-  * Install w5kit-cli
-
-```
-npm install -g w5kit-cli
-```
-
-  * Launch the CLI
-
-```
-w5kit
-```
-
-  * Choose `Vanilla JS`
 
 ## Installation via Clone
 
 * Clone this repository
 
 ```
-git clone https://github.com/king-prawns/webpack-starter-kit.git [your-app-name]
+git clone https://github.com/favstores/onboard-express-starter.git [your-app-name]
 ```
 
 Remove the .git folder and change details within:
@@ -86,4 +69,4 @@ $ yarn httpserver
 
 ## TypeScript
 
-### Please go to [TS repo](https://github.com/king-prawns/webpack5-starter-kit-ts)
+### Please go to [TS repo](https://github.com/favstores/onboard-express-starter.git)
