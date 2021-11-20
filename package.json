@@ -9,7 +9,7 @@
     "lint": "eslint ./src",
     "flow": "flow",
     "test": "nyc ava",
-    "prestart": "yarn build",
+    "prestarta": "yarn build",
     "serve": "http-server ./dist -p 8082 --silent"
   },
   "author": "Giorgio Gamberoni <giorgio.gamberoni@gmail.com> (https://github.com/king-prawns)",
